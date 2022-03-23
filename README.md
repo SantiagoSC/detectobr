@@ -2,7 +2,7 @@
 
 In php 8 declaring a function with an optional parameter before a required one results in a "Deprecated" warning which can break some views or API responses.
 
-Its easy to resolve this issue when located, but in big old projects can be a nightmare to search this type of declarations in thounsands of scripts.
+Its easy to resolve this issue when located, but in big old projects can be a nightmare to search this type of declarations in thousands of scripts.
 
 This script helps to locate automatically all these declarations in a whole project.
 
